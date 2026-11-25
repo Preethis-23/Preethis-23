@@ -1,3 +1,5 @@
+<p align="center">   <img src="Gemini_Generated_Gif_t1mn30t1mn30t1mn.gif" width="100%" alt="Developer Banner" /> </p>
+
 # Preethiswaran G
 ### Machine Learning Engineer
 
